@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\rashi\\source\\repos\\EmployeeManager.Angular\\EmployeeManager.Angular\\wwwroot\\3rdpartylicenses.txt",
+      "PackagePath": "staticwebassets\\3rdpartylicenses.txt"
+    },
+    {
+      "Id": "C:\\Users\\rashi\\source\\repos\\EmployeeManager.Angular\\EmployeeManager.Angular\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\rashi\\source\\repos\\EmployeeManager.Angular\\EmployeeManager.Angular\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\rashi\\source\\repos\\EmployeeManager.Angular\\EmployeeManager.Angular\\wwwroot\\main-EVUTQGRX.js",
+      "PackagePath": "staticwebassets\\main-EVUTQGRX.js"
+    },
+    {
+      "Id": "C:\\Users\\rashi\\source\\repos\\EmployeeManager.Angular\\EmployeeManager.Angular\\wwwroot\\polyfills-S3BTP7ME.js",
+      "PackagePath": "staticwebassets\\polyfills-S3BTP7ME.js"
+    },
+    {
+      "Id": "C:\\Users\\rashi\\source\\repos\\EmployeeManager.Angular\\EmployeeManager.Angular\\wwwroot\\styles-5INURTSO.css",
+      "PackagePath": "staticwebassets\\styles-5INURTSO.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EmployeeManager.Angular.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EmployeeManager.Angular.props",
+      "PackagePath": "build\\EmployeeManager.Angular.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EmployeeManager.Angular.props",
+      "PackagePath": "buildMultiTargeting\\EmployeeManager.Angular.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EmployeeManager.Angular.props",
+      "PackagePath": "buildTransitive\\EmployeeManager.Angular.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
