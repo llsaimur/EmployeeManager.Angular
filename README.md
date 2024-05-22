@@ -1,7 +1,7 @@
 # EmployeeManager.Angular
 
 ***
-develop the Employee Manager application as an Angular SPA
+Developed the Employee Manager application as an Angular SPA
 (Single Page Application)
 *** 
 
